@@ -1,0 +1,121 @@
+symbol,name,period,eps_est,eps_actual,difference,surprise,mse
+CRM,Salesforce.Com Inc,ThirdToLast_Quarter,0.74,0.84,0.1,13.50%,0.019
+CRM,Salesforce.Com Inc,SecondToLast_Quarter,0.94,0.98,0.04,4.30%,0.019
+CRM,Salesforce.Com Inc,NextToLast_Quarter,1.02,1.19,0.17,16.70%,0.019
+CRM,Salesforce.Com Inc,Last_Quarter,1.21,1.4,0.19,15.70%,0.019
+WBA,Walgreens Boots Alliance Inc,ThirdToLast_Quarter,1.4,1.59,0.19,13.60%,0.01
+WBA,Walgreens Boots Alliance Inc,SecondToLast_Quarter,0.92,0.96,0.04,4.30%,0.01
+WBA,Walgreens Boots Alliance Inc,NextToLast_Quarter,0.77,0.8,0.03,3.90%,0.01
+WBA,Walgreens Boots Alliance Inc,Last_Quarter,1.14,1.16,0.02,1.80%,0.01
+V,Visa Inc,ThirdToLast_Quarter,1.64,1.79,0.15,9.10%,0.027
+V,Visa Inc,SecondToLast_Quarter,1.75,1.98,0.23,13.10%,0.027
+V,Visa Inc,NextToLast_Quarter,1.86,1.93,0.07,3.80%,0.027
+V,Visa Inc,Last_Quarter,2.01,2.18,0.17,8.50%,0.027
+NKE,Nike Inc,ThirdToLast_Quarter,0.71,0.87,0.16,22.50%,0.02
+NKE,Nike Inc,SecondToLast_Quarter,0.8,0.9,0.1,12.50%,0.02
+NKE,Nike Inc,NextToLast_Quarter,0.92,0.93,0.01,1.10%,0.02
+NKE,Nike Inc,Last_Quarter,0.64,0.85,0.21,32.80%,0.02
+UNH,UnitedHealth Group Inc,ThirdToLast_Quarter,5.38,5.49,0.11,2.00%,0.079
+UNH,UnitedHealth Group Inc,SecondToLast_Quarter,5.2,5.57,0.37,7.10%,0.079
+UNH,UnitedHealth Group Inc,NextToLast_Quarter,5.42,5.79,0.37,6.80%,0.079
+UNH,UnitedHealth Group Inc,Last_Quarter,5.17,5.34,0.17,3.30%,0.079
+TRV,Travelers Companies Inc,ThirdToLast_Quarter,3.6,4.22,0.62,17.20%,0.288
+TRV,Travelers Companies Inc,SecondToLast_Quarter,1.97,2.57,0.6,30.50%,0.288
+TRV,Travelers Companies Inc,NextToLast_Quarter,1.56,2.2,0.64,41.00%,0.288
+TRV,Travelers Companies Inc,Last_Quarter,3.4,3.4,0.0,0.00%,0.288
+VZ,Verizon Communications Inc,ThirdToLast_Quarter,1.34,1.35,0.01,0.70%,0.0
+VZ,Verizon Communications Inc,SecondToLast_Quarter,1.32,1.31,-0.01,-0.80%,0.0
+VZ,Verizon Communications Inc,NextToLast_Quarter,1.29,1.32,0.03,2.30%,0.0
+VZ,Verizon Communications Inc,Last_Quarter,1.19,1.19,0.0,0.00%,0.0
+INTC,Intel Corp,ThirdToLast_Quarter,0.8,0.87,0.07,8.70%,0.064
+INTC,Intel Corp,SecondToLast_Quarter,0.7,0.29,-0.41,-58.60%,0.064
+INTC,Intel Corp,NextToLast_Quarter,0.32,0.59,0.27,84.40%,0.064
+INTC,Intel Corp,Last_Quarter,0.2,0.1,-0.1,-50.00%,0.064
+WMT,Walmart Inc,ThirdToLast_Quarter,1.5,1.53,0.03,2.00%,0.022
+WMT,Walmart Inc,SecondToLast_Quarter,1.48,1.3,-0.18,-12.20%,0.022
+WMT,Walmart Inc,NextToLast_Quarter,1.62,1.77,0.15,9.30%,0.022
+WMT,Walmart Inc,Last_Quarter,1.32,1.5,0.18,13.60%,0.022
+JNJ,Johnson & Johnson,ThirdToLast_Quarter,2.56,2.67,0.11,4.30%,0.009
+JNJ,Johnson & Johnson,SecondToLast_Quarter,2.53,2.59,0.06,2.40%,0.009
+JNJ,Johnson & Johnson,NextToLast_Quarter,2.47,2.55,0.08,3.20%,0.009
+JNJ,Johnson & Johnson,Last_Quarter,2.23,2.35,0.12,5.40%,0.009
+DIS,Walt Disney Co,ThirdToLast_Quarter,1.19,1.08,-0.11,-9.20%,0.034
+DIS,Walt Disney Co,SecondToLast_Quarter,0.96,1.09,0.13,13.50%,0.034
+DIS,Walt Disney Co,NextToLast_Quarter,0.55,0.3,-0.25,-45.50%,0.034
+DIS,Walt Disney Co,Last_Quarter,0.78,0.99,0.21,26.90%,0.034
+MCD,Mcdonald's Corp,ThirdToLast_Quarter,2.17,2.28,0.11,5.10%,0.012
+MCD,Mcdonald's Corp,SecondToLast_Quarter,2.47,2.55,0.08,3.20%,0.012
+MCD,Mcdonald's Corp,NextToLast_Quarter,2.58,2.68,0.1,3.90%,0.012
+MCD,Mcdonald's Corp,Last_Quarter,2.45,2.59,0.14,5.70%,0.012
+JPM,JPMorgan Chase & Co,ThirdToLast_Quarter,2.69,2.63,-0.06,-2.20%,0.081
+JPM,JPMorgan Chase & Co,SecondToLast_Quarter,2.88,2.76,-0.12,-4.20%,0.081
+JPM,JPMorgan Chase & Co,NextToLast_Quarter,2.88,3.12,0.24,8.30%,0.081
+JPM,JPMorgan Chase & Co,Last_Quarter,3.06,3.56,0.5,16.30%,0.081
+CAT,Caterpillar Inc,ThirdToLast_Quarter,2.6,2.88,0.28,10.80%,0.198
+CAT,Caterpillar Inc,SecondToLast_Quarter,3.01,3.18,0.17,5.60%,0.198
+CAT,Caterpillar Inc,NextToLast_Quarter,3.16,3.95,0.79,25.00%,0.198
+CAT,Caterpillar Inc,Last_Quarter,4.02,4.27,0.25,6.20%,0.198
+BA,Boeing Co,ThirdToLast_Quarter,-0.27,-2.75,-2.48,-918.50%,12.326
+BA,Boeing Co,SecondToLast_Quarter,-0.14,-0.37,-0.23,-164.30%,12.326
+BA,Boeing Co,NextToLast_Quarter,0.07,-6.18,-6.25,"-8,928.60%",12.326
+BA,Boeing Co,Last_Quarter,0.26,-1.75,-2.01,-773.10%,12.326
+AMGN,Amgen Inc,ThirdToLast_Quarter,4.09,4.25,0.16,3.90%,0.039
+AMGN,Amgen Inc,SecondToLast_Quarter,4.4,4.65,0.25,5.70%,0.039
+AMGN,Amgen Inc,NextToLast_Quarter,4.44,4.7,0.26,5.90%,0.039
+AMGN,Amgen Inc,Last_Quarter,4.09,4.09,0.0,0.00%,0.039
+DOW,Dow Inc,ThirdToLast_Quarter,2.05,2.34,0.29,14.10%,0.032
+DOW,Dow Inc,SecondToLast_Quarter,2.14,2.31,0.17,7.90%,0.032
+DOW,Dow Inc,NextToLast_Quarter,1.08,1.11,0.03,2.80%,0.032
+DOW,Dow Inc,Last_Quarter,0.58,0.46,-0.12,-20.70%,0.032
+AAPL,Apple Inc,ThirdToLast_Quarter,1.43,1.52,0.09,6.30%,0.003
+AAPL,Apple Inc,SecondToLast_Quarter,1.16,1.2,0.04,3.40%,0.003
+AAPL,Apple Inc,NextToLast_Quarter,1.27,1.29,0.02,1.60%,0.003
+AAPL,Apple Inc,Last_Quarter,1.94,1.88,-0.06,-3.10%,0.003
+GS,Goldman Sachs Group Inc,ThirdToLast_Quarter,8.89,10.76,1.87,21.00%,2.45
+GS,Goldman Sachs Group Inc,SecondToLast_Quarter,6.58,7.73,1.15,17.50%,2.45
+GS,Goldman Sachs Group Inc,NextToLast_Quarter,7.69,8.25,0.56,7.30%,2.45
+GS,Goldman Sachs Group Inc,Last_Quarter,5.48,3.32,-2.16,-39.40%,2.45
+CSCO,Cisco Systems Inc,ThirdToLast_Quarter,0.81,0.84,0.03,3.70%,0.0
+CSCO,Cisco Systems Inc,SecondToLast_Quarter,0.86,0.87,0.01,1.20%,0.0
+CSCO,Cisco Systems Inc,NextToLast_Quarter,0.82,0.83,0.01,1.20%,0.0
+CSCO,Cisco Systems Inc,Last_Quarter,0.84,0.86,0.02,2.40%,0.0
+MSFT,Microsoft Corp,ThirdToLast_Quarter,2.18,2.22,0.04,1.80%,0.002
+MSFT,Microsoft Corp,SecondToLast_Quarter,2.29,2.23,-0.06,-2.60%,0.002
+MSFT,Microsoft Corp,NextToLast_Quarter,2.3,2.35,0.05,2.20%,0.002
+MSFT,Microsoft Corp,Last_Quarter,2.29,2.32,0.03,1.30%,0.002
+HD,Home Depot Inc,ThirdToLast_Quarter,3.18,3.21,0.03,0.90%,0.049
+HD,Home Depot Inc,SecondToLast_Quarter,3.68,4.09,0.41,11.10%,0.049
+HD,Home Depot Inc,NextToLast_Quarter,4.94,5.05,0.11,2.20%,0.049
+HD,Home Depot Inc,Last_Quarter,4.12,4.24,0.12,2.90%,0.049
+PG,Procter & Gamble Co,ThirdToLast_Quarter,1.29,1.33,0.04,3.10%,0.001
+PG,Procter & Gamble Co,SecondToLast_Quarter,1.22,1.21,-0.01,-0.80%,0.001
+PG,Procter & Gamble Co,NextToLast_Quarter,1.54,1.57,0.03,1.90%,0.001
+PG,Procter & Gamble Co,Last_Quarter,1.59,1.59,0.0,0.00%,0.001
+MRK,Merck & Co Inc,ThirdToLast_Quarter,1.83,2.14,0.31,16.90%,0.038
+MRK,Merck & Co Inc,SecondToLast_Quarter,1.7,1.87,0.17,10.00%,0.038
+MRK,Merck & Co Inc,NextToLast_Quarter,1.71,1.85,0.14,8.20%,0.038
+MRK,Merck & Co Inc,Last_Quarter,1.54,1.62,0.08,5.20%,0.038
+IBM,International Business Machines Corp,ThirdToLast_Quarter,1.38,1.4,0.02,1.40%,0.001
+IBM,International Business Machines Corp,SecondToLast_Quarter,2.27,2.31,0.04,1.80%,0.001
+IBM,International Business Machines Corp,NextToLast_Quarter,1.77,1.81,0.04,2.30%,0.001
+IBM,International Business Machines Corp,Last_Quarter,3.6,3.6,0.0,0.00%,0.001
+HON,Honeywell International Inc,ThirdToLast_Quarter,1.86,1.91,0.05,2.70%,0.004
+HON,Honeywell International Inc,SecondToLast_Quarter,2.03,2.1,0.07,3.40%,0.004
+HON,Honeywell International Inc,NextToLast_Quarter,2.16,2.25,0.09,4.20%,0.004
+HON,Honeywell International Inc,Last_Quarter,2.51,2.52,0.01,0.40%,0.004
+KO,Coca-Cola Co,ThirdToLast_Quarter,0.41,0.45,0.04,9.80%,0.002
+KO,Coca-Cola Co,SecondToLast_Quarter,0.58,0.64,0.06,10.30%,0.002
+KO,Coca-Cola Co,NextToLast_Quarter,0.67,0.7,0.03,4.50%,0.002
+KO,Coca-Cola Co,Last_Quarter,0.64,0.69,0.05,7.80%,0.002
+CVX,Chevron Corp,ThirdToLast_Quarter,3.27,3.36,0.09,2.80%,0.293
+CVX,Chevron Corp,SecondToLast_Quarter,5.1,5.82,0.72,14.10%,0.293
+CVX,Chevron Corp,NextToLast_Quarter,4.81,5.56,0.75,15.60%,0.293
+CVX,Chevron Corp,Last_Quarter,4.38,4.09,-0.29,-6.60%,0.293
+AXP,American Express Co,ThirdToLast_Quarter,2.44,2.73,0.29,11.90%,0.034
+AXP,American Express Co,SecondToLast_Quarter,2.41,2.57,0.16,6.60%,0.034
+AXP,American Express Co,NextToLast_Quarter,2.41,2.47,0.06,2.50%,0.034
+AXP,American Express Co,Last_Quarter,2.22,2.07,-0.15,-6.80%,0.034
+MMM,3M Co,ThirdToLast_Quarter,2.31,2.65,0.34,14.70%,0.033
+MMM,3M Co,SecondToLast_Quarter,2.42,2.48,0.06,2.50%,0.033
+MMM,3M Co,NextToLast_Quarter,2.6,2.69,0.09,3.50%,0.033
+MMM,3M Co,Last_Quarter,2.36,2.28,-0.08,-3.40%,0.033

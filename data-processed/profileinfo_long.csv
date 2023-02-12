@@ -1,0 +1,181 @@
+name,variable,value
+Salesforce.Com Inc,Symbol,CRM
+Walgreens Boots Alliance Inc,Symbol,WBA
+Visa Inc,Symbol,V
+Nike Inc,Symbol,NKE
+UnitedHealth Group Inc,Symbol,UNH
+Travelers Companies Inc,Symbol,TRV
+Verizon Communications Inc,Symbol,VZ
+Intel Corp,Symbol,INTC
+Walmart Inc,Symbol,WMT
+Johnson & Johnson,Symbol,JNJ
+Walt Disney Co,Symbol,DIS
+Mcdonald's Corp,Symbol,MCD
+JPMorgan Chase & Co,Symbol,JPM
+Caterpillar Inc,Symbol,CAT
+Boeing Co,Symbol,BA
+Amgen Inc,Symbol,AMGN
+Dow Inc,Symbol,DOW
+Apple Inc,Symbol,AAPL
+Goldman Sachs Group Inc,Symbol,GS
+Cisco Systems Inc,Symbol,CSCO
+Microsoft Corp,Symbol,MSFT
+Home Depot Inc,Symbol,HD
+Procter & Gamble Co,Symbol,PG
+Merck & Co Inc,Symbol,MRK
+International Business Machines Corp,Symbol,IBM
+Honeywell International Inc,Symbol,HON
+Coca-Cola Co,Symbol,KO
+Chevron Corp,Symbol,CVX
+American Express Co,Symbol,AXP
+3M Co,Symbol,MMM
+Salesforce.Com Inc,Sector,Technology
+Walgreens Boots Alliance Inc,Sector,Healthcare
+Visa Inc,Sector,Financial Services
+Nike Inc,Sector,Consumer Cyclical
+UnitedHealth Group Inc,Sector,Healthcare
+Travelers Companies Inc,Sector,Financial Services
+Verizon Communications Inc,Sector,Communication Services
+Intel Corp,Sector,Technology
+Walmart Inc,Sector,Consumer Defensive
+Johnson & Johnson,Sector,Healthcare
+Walt Disney Co,Sector,Consumer Cyclical
+Mcdonald's Corp,Sector,Consumer Cyclical
+JPMorgan Chase & Co,Sector,Financial Services
+Caterpillar Inc,Sector,Industrials
+Boeing Co,Sector,Industrials
+Amgen Inc,Sector,Healthcare
+Dow Inc,Sector,Basic Materials
+Apple Inc,Sector,Technology
+Goldman Sachs Group Inc,Sector,Financial Services
+Cisco Systems Inc,Sector,Technology
+Microsoft Corp,Sector,Technology
+Home Depot Inc,Sector,Consumer Cyclical
+Procter & Gamble Co,Sector,Consumer Defensive
+Merck & Co Inc,Sector,Healthcare
+International Business Machines Corp,Sector,Technology
+Honeywell International Inc,Sector,Industrials
+Coca-Cola Co,Sector,Consumer Defensive
+Chevron Corp,Sector,Energy
+American Express Co,Sector,Financial Services
+3M Co,Sector,Industrials
+Salesforce.Com Inc,Head Quarter,"San Francisco, CALIFORNIA"
+Walgreens Boots Alliance Inc,Head Quarter,"Deerfield, ILLINOIS"
+Visa Inc,Head Quarter,"San Francisco, CALIFORNIA"
+Nike Inc,Head Quarter,"Beaverton, OREGON"
+UnitedHealth Group Inc,Head Quarter,"Hopkins, MINNESOTA"
+Travelers Companies Inc,Head Quarter,"Saint Paul, MINNESOTA"
+Verizon Communications Inc,Head Quarter,"New York City, NEW YORK"
+Intel Corp,Head Quarter,"Santa Clara, CALIFORNIA"
+Walmart Inc,Head Quarter,"Bentonville, ARKANSAS"
+Johnson & Johnson,Head Quarter,"New Brunswick, NEW JERSEY"
+Walt Disney Co,Head Quarter,"Burbank, CALIFORNIA"
+Mcdonald's Corp,Head Quarter,"Chicago, ILLINOIS"
+JPMorgan Chase & Co,Head Quarter,"New York City, NEW YORK"
+Caterpillar Inc,Head Quarter,"Deerfield, ILLINOIS"
+Boeing Co,Head Quarter,"Chicago, ILLINOIS"
+Amgen Inc,Head Quarter,"Thousand Oaks, CALIFORNIA"
+Dow Inc,Head Quarter,"Midland, MICHIGAN"
+Apple Inc,Head Quarter,"Cupertino, CALIFORNIA"
+Goldman Sachs Group Inc,Head Quarter,"New York City, NEW YORK"
+Cisco Systems Inc,Head Quarter,"San Jose, CALIFORNIA"
+Microsoft Corp,Head Quarter,"Redmond, WASHINGTON"
+Home Depot Inc,Head Quarter,"Atlanta, GEORGIA"
+Procter & Gamble Co,Head Quarter,"Cincinnati, OHIO"
+Merck & Co Inc,Head Quarter,"Kenilworth, NEW JERSEY"
+International Business Machines Corp,Head Quarter,"Armonk, NEW YORK"
+Honeywell International Inc,Head Quarter,"Charlotte, NORTH CAROLINA"
+Coca-Cola Co,Head Quarter,"Atlanta, GEORGIA"
+Chevron Corp,Head Quarter,"San Ramon, CALIFORNIA"
+American Express Co,Head Quarter,"New York City, NEW YORK"
+3M Co,Head Quarter,"Saint Paul, MINNESOTA"
+Salesforce.Com Inc,Founded,2004-06-23
+Walgreens Boots Alliance Inc,Founded,2014-12-31
+Visa Inc,Founded,2008-03-19
+Nike Inc,Founded,1990-10-17
+UnitedHealth Group Inc,Founded,1984-10-17
+Travelers Companies Inc,Founded,1991-11-08
+Verizon Communications Inc,Founded,1984-02-15
+Intel Corp,Founded,1971-10-13
+Walmart Inc,Founded,1972-08-25
+Johnson & Johnson,Founded,1944-09-25
+Walt Disney Co,Founded,1957-11-12
+Mcdonald's Corp,Founded,1966-07-05
+JPMorgan Chase & Co,Founded,1969-03-05
+Caterpillar Inc,Founded,1929-12-02
+Boeing Co,Founded,1934-09-05
+Amgen Inc,Founded,1987-05-01
+Dow Inc,Founded,2019-03-20
+Apple Inc,Founded,1980-12-12
+Goldman Sachs Group Inc,Founded,1999-05-04
+Cisco Systems Inc,Founded,1990-02-01
+Microsoft Corp,Founded,1986-03-13
+Home Depot Inc,Founded,1984-04-19
+Procter & Gamble Co,Founded,1950-03-22
+Merck & Co Inc,Founded,1946-06-15
+International Business Machines Corp,Founded,1915-11-11
+Honeywell International Inc,Founded,1985-09-19
+Coca-Cola Co,Founded,1919-09-05
+Chevron Corp,Founded,1921-06-24
+American Express Co,Founded,1977-05-18
+3M Co,Founded,1946-01-14
+Salesforce.Com Inc,Full time employees,73541
+Walgreens Boots Alliance Inc,Full time employees,325000
+Visa Inc,Full time employees,26500
+Nike Inc,Full time employees,79100
+UnitedHealth Group Inc,Full time employees,350000
+Travelers Companies Inc,Full time employees,30184
+Verizon Communications Inc,Full time employees,119500
+Intel Corp,Full time employees,121100
+Walmart Inc,Full time employees,2300000
+Johnson & Johnson,Full time employees,141700
+Walt Disney Co,Full time employees,171600
+Mcdonald's Corp,Full time employees,100000
+JPMorgan Chase & Co,Full time employees,293723
+Caterpillar Inc,Full time employees,107700
+Boeing Co,Full time employees,142000
+Amgen Inc,Full time employees,24200
+Dow Inc,Full time employees,35700
+Apple Inc,Full time employees,164000
+Goldman Sachs Group Inc,Full time employees,48500
+Cisco Systems Inc,Full time employees,83300
+Microsoft Corp,Full time employees,221000
+Home Depot Inc,Full time employees,500000
+Procter & Gamble Co,Full time employees,106000
+Merck & Co Inc,Full time employees,67000
+International Business Machines Corp,Full time employees,282100
+Honeywell International Inc,Full time employees,99000
+Coca-Cola Co,Full time employees,79000
+Chevron Corp,Full time employees,42595
+American Express Co,Full time employees,64000
+3M Co,Full time employees,95000
+Salesforce.Com Inc,Website,https://www.salesforce.com
+Walgreens Boots Alliance Inc,Website,https://www.walgreensbootsalliance.com
+Visa Inc,Website,https://usa.visa.com
+Nike Inc,Website,https://investors.nike.com
+UnitedHealth Group Inc,Website,https://www.unitedhealthgroup.com
+Travelers Companies Inc,Website,https://www.travelers.com
+Verizon Communications Inc,Website,https://www.verizon.com
+Intel Corp,Website,https://www.intel.com
+Walmart Inc,Website,https://www.stock.walmart.com
+Johnson & Johnson,Website,https://www.jnj.com
+Walt Disney Co,Website,https://www.thewaltdisneycompany.com
+Mcdonald's Corp,Website,https://corporate.mcdonalds.com
+JPMorgan Chase & Co,Website,https://www.jpmorganchase.com
+Caterpillar Inc,Website,https://www.caterpillar.com
+Boeing Co,Website,https://www.boeing.com
+Amgen Inc,Website,https://www.amgen.com
+Dow Inc,Website,https://www.dow.com
+Apple Inc,Website,https://www.apple.com
+Goldman Sachs Group Inc,Website,https://www.goldmansachs.com
+Cisco Systems Inc,Website,https://www.cisco.com
+Microsoft Corp,Website,https://www.microsoft.com
+Home Depot Inc,Website,https://www.homedepot.com
+Procter & Gamble Co,Website,https://www.pginvestor.com
+Merck & Co Inc,Website,https://www.merck.com
+International Business Machines Corp,Website,https://www.ibm.com
+Honeywell International Inc,Website,https://www.honeywell.com
+Coca-Cola Co,Website,https://www.coca-colacompany.com
+Chevron Corp,Website,https://www.chevron.com
+American Express Co,Website,https://www.americanexpress.com
+3M Co,Website,https://www.3m.com
